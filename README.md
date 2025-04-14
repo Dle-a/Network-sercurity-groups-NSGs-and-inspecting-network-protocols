@@ -64,9 +64,9 @@ Within the Azure portal, I opened the networking settings for the Ubuntu VM and 
 <p>
 Upon returning to the Windows VM, I notice that the ICMP traffic is blocked now that the inbound security rule is in place. After changing the rule to allow traffic again, the perpetual ping resolves without timing out.
 
-<img width="565" alt="Annotation 2025-02-10 222550" src="https://github.com/user-attachments/assets/e10cd882-122d-4279-ad90-29242f8b2ace" />
 </p>
 <br />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/1c2672cd-e36c-460d-9a25-25dba6925a00" />
 
 <p>
 </p>
